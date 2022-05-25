@@ -5,6 +5,7 @@ using Todo.Models;
 namespace Todo.Controllers
 {
     [ApiController]
+    [Route("")]
     public class HomeController : ControllerBase
     {
         [HttpGet("/")]
