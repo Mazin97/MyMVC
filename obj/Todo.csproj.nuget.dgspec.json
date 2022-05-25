@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\Todo\\Todo.csproj": {}
+    "C:\\dev\\MyMVC\\Todo.csproj": {}
   },
   "projects": {
-    "C:\\dev\\Todo\\Todo.csproj": {
+    "C:\\dev\\MyMVC\\Todo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\Todo\\Todo.csproj",
+        "projectUniqueName": "C:\\dev\\MyMVC\\Todo.csproj",
         "projectName": "Todo",
-        "projectPath": "C:\\dev\\Todo\\Todo.csproj",
-        "packagesPath": "C:\\Users\\Mateus\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\Todo\\obj\\",
+        "projectPath": "C:\\dev\\MyMVC\\Todo.csproj",
+        "packagesPath": "C:\\Users\\mateus.marques\\.nuget\\packages\\",
+        "outputPath": "C:\\dev\\MyMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Mateus\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mateus.marques\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
